@@ -22,20 +22,10 @@ java Calculator
 
 How to Use
 Run the program.
-Select the arithmetic operation you want to perform (Addition, Subtraction, Multiplication, Division).
-Enter two numbers.
-The program will display the result of the operation.
-Example
-yaml
-Copy code
-Welcome to the OOP Calculator!
-Please select an operation:
-1. Addition
-2. Subtraction
-3. Multiplication
-4. Division
 
-Inputs are entered in the expresion form 3*8/2
+Welcome to the OOP Calculator!
+Inputs are entered in the expresion form like 
+3*8/2
 
 OOP Concepts Applied
 Classes and Objects: The Calculator class contains methods for each arithmetic operation.
